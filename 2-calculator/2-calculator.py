@@ -1,8 +1,6 @@
 # type: ignore
 
 
-input1 = 10 
-input2 = 5 
 
 input1 = input("Enter first numner: ")
 input2 = input("Enter second numner: ")
