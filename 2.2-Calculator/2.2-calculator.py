@@ -2,9 +2,10 @@
 
 
 
-input1 = input("Enter first numner: ")
-input2 = input("Enter second numner: ")
-
+#input1 = input("Enter first numner: ")
+#input2 = input("Enter second numner: ")
+input1 = 20
+input2 = 10
  
 
 x1 = input1 + input2
