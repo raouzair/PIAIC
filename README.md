@@ -5,5 +5,5 @@
 ### The course commencing at **UMT (University of Management and Technology)** Lahore.
 
 # The structure for checking the assignments is as under:
-## Solutions - This folder contains the solutions to the assignments
-## _Assignments Received - This folder contains the files related to the assignments received
+## 1 - Solutions - This folder contains the solutions to the assignments
+## 2 - _Assignments Received - This folder contains the files related to the assignments received
